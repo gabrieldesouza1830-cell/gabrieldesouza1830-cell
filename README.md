@@ -1,4 +1,4 @@
-<h1 Hi👋 I am Gabriel de Souza </h1> 
+<h1 align="left">Hi👋 I am Gabriel de Souza</h1>
 
 🚀 I am currently pursuing a degree in Systems Analysis and Development at the institution Unicid.
 
