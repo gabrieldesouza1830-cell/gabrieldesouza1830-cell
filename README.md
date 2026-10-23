@@ -1,10 +1,11 @@
+Hi👋 I am Gabriel de Souza
 
+🚀 I am currently pursuing a degree in Systems Analysis and Development at the institution Unicid.
 
 <h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:gabrieldesouza1830@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/gabriel-de-souza-aabba7435/)
-
 
 <h3 align="left">My Stack ~</h3>
 
