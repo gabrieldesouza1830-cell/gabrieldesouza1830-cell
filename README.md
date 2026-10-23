@@ -1,13 +1,13 @@
-<h1 align="left">Hi👋 I am Gabriel de Souza</h1>
+<h1 align="left">Olá👋 Eu sou Gabriel de Souza</h1>
 
-🚀 I am currently pursuing a degree in Systems Analysis and Development at the institution Unicid.
+🚀 Atualmente estou cursando a área de Análise e Desenvolvimento de Sistemas na instituição Unicid.
 
-<h3 align="left">Connect with me!</h3>
+<h3 align="left">Conecte-se comigo!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:gabrieldesouza1830@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/gabriel-de-souza-aabba7435/)
 
-<h3 align="left">My Stack ~</h3>
+<h3 align="left">Meu conhecimento:</h3>
 
 <img 
     align="left" 
@@ -64,7 +64,7 @@
 <br/>
 <br/>
 
-## 📊 GitHub Stats
+## 📊 GitHub Status:
 
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=gabrieldesouza1830-cell&show_icons=true&theme=tokyonight&count_private=true" />
