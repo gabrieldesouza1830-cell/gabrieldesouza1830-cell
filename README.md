@@ -1,17 +1,17 @@
 <!-- ==================== BANNER ==================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF00F6&height=180&section=header&text=Gabriel%20de%20Souza&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Análise%20e%20Desenvolvimento%20de%20Sistemas%20•%20UNICID&descAlignY=58&descSize=16" alt="Banner Gabriel de Souza"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,50:FF9A3C,100:FFD86F&height=180&section=header&text=Gabriel%20de%20Souza&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Análise%20e%20Desenvolvimento%20de%20Sistemas%20•%20UNICID&descAlignY=58&descSize=16" alt="Banner Gabriel de Souza"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+%F0%9F%91%8B;Estudante+de+ADS+na+UNICID+%F0%9F%8E%93;Assistente+de+Log%C3%ADstica+%F0%9F%93%A6;Futuro+profissional+de+Ciberseguran%C3%A7a+%F0%9F%94%90;Automatizando+o+que+%C3%A9+repetitivo+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF8C42&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+%F0%9F%91%8B;Estudante+de+ADS+na+UNICID+%F0%9F%8E%93;Assistente+de+Log%C3%ADstica+%F0%9F%93%A6;Futuro+profissional+de+Ciberseguran%C3%A7a+%F0%9F%94%90;Automatizando+o+que+%C3%A9+repetitivo+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gabriel-de-souza-aabba7435/"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6" alt="LinkedIn"/></a>
-  <a href="mailto:gabrieldesouza1830@gmail.com"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=FF00F6" alt="E-mail"/></a>
-  <img src="https://img.shields.io/badge/Itaquaquecetuba%20--%20SP-000?style=for-the-badge&logo=googlemaps&logoColor=FF00F6" alt="Localização"/>
-  <img src="https://komarev.com/ghpvc/?username=gabrieldesouza1830-cell&label=Visitas&color=FF00F6&style=for-the-badge" alt="Visitas ao perfil"/>
+  <a href="https://www.linkedin.com/in/gabriel-de-souza-aabba7435/"><img src="https://img.shields.io/badge/LinkedIn-FF8C42?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:gabrieldesouza1830@gmail.com"><img src="https://img.shields.io/badge/Email-FF8C42?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
+  <img src="https://img.shields.io/badge/Itaquaquecetuba%20--%20SP-FF8C42?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localização"/>
+  <img src="https://komarev.com/ghpvc/?username=gabrieldesouza1830-cell&label=Visitas&color=FF8C42&style=for-the-badge" alt="Visitas ao perfil"/>
 </p>
 
 ---
@@ -69,6 +69,7 @@ const gabriel = {
 ## 🧭 Minha trajetória
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'cScale0': '#FF5F6D', 'cScaleLabel0': '#ffffff', 'cScale1': '#FF8C42', 'cScaleLabel1': '#ffffff', 'cScale2': '#FFB347', 'cScaleLabel2': '#2B1B17', 'cScale3': '#FFD86F', 'cScaleLabel3': '#2B1B17'}}}%%
 timeline
     title Da logística à tecnologia
     2024 : Auxiliar de Logística (Intech Machine)
@@ -182,12 +183,12 @@ A visita mudou minha visão de TI: por trás de cada tela existe uma operação 
 Estou aberto a **oportunidades de estágio**, trocas de conhecimento e projetos em equipe. Se quiser falar sobre tecnologia, dados, logística ou segurança da informação, me chama! 😄
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gabriel-de-souza-aabba7435/"><img src="https://img.shields.io/badge/Conecte--se%20no%20LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6" alt="LinkedIn"/></a>
-  <a href="mailto:gabrieldesouza1830@gmail.com"><img src="https://img.shields.io/badge/Mande%20um%20e--mail-000?style=for-the-badge&logo=gmail&logoColor=FF00F6" alt="E-mail"/></a>
+  <a href="https://www.linkedin.com/in/gabriel-de-souza-aabba7435/"><img src="https://img.shields.io/badge/Conecte--se%20no%20LinkedIn-FF8C42?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:gabrieldesouza1830@gmail.com"><img src="https://img.shields.io/badge/Mande%20um%20e--mail-FF8C42?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
 </p>
 
 <p align="center">
   <i>"Você não vai conhecer alguém totalmente sem conviver com ela constantemente."</i>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00F6,100:000000&height=120&section=footer" alt="Rodapé"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD86F,50:FF9A3C,100:FF5F6D&height=120&section=footer" alt="Rodapé"/>
