@@ -60,24 +60,27 @@ const gabriel = {
 |:---|:---|:---|
 | 💻 **Desenvolvimento** | HTML, CSS, JavaScript, Python | Java, C#, desenvolvimento de interfaces |
 | 🗄️ **Banco de Dados** | SQL | Modelagem e consultas avançadas |
-| 📊 **Análise de Dados** | Planilhas, análise de dados logísticos | Python para dados |
+| 📊 **Análise de Dados** | Excel Avançado, Power BI, análise de dados logísticos | Python para dados |
 | 🔐 **Cibersegurança** | LGPD e proteção de dados | Segurança da informação *(meta futura)* |
-| 🔧 **Ferramentas** | Git, GitHub, VS Code | — |
+| 🔧 **Ferramentas** | Git, GitHub, VS Code, Pacote Office | — |
 
 ---
 
 ## 🧭 Minha trajetória
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': {'cScale0': '#FF5F6D', 'cScaleLabel0': '#ffffff', 'cScale1': '#FF8C42', 'cScaleLabel1': '#ffffff', 'cScale2': '#FFB347', 'cScaleLabel2': '#2B1B17', 'cScale3': '#FFD86F', 'cScaleLabel3': '#2B1B17'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': {'cScale0': '#FF5F6D', 'cScaleLabel0': '#ffffff', 'cScale1': '#FF8C42', 'cScaleLabel1': '#ffffff', 'cScale2': '#FFB347', 'cScaleLabel2': '#2B1B17', 'cScale3': '#FFD86F', 'cScaleLabel3': '#2B1B17', 'cScale4': '#FFE29A', 'cScaleLabel4': '#2B1B17'}}}%%
 timeline
     title Da logística à tecnologia
+    2023 : Ensino Médio concluído
+         : Cursos SENAI de Desenho Técnico e Matemática Aplicada
     2024 : Auxiliar de Logística (Intech Machine)
     2025 : Separador de Produtos
          : Conferente de Produtos
+         : Excel Avançado e Power BI (SENAI)
     2026 : Início da graduação em ADS na UNICID
          : Assistente de Logística
-         : Certificados SENAI (36h)
+         : Cursos SENAI de Lógica, TIC e LGPD
          : Organização de visita técnica na Rental Computer
     2027 : Conclusão de ADS
          : Rumo à área de tecnologia 🚀
@@ -102,19 +105,82 @@ Na logística atuo com **sistemas logísticos, transporte, faturamento, expediç
 
 ## 📜 Certificados
 
-<details>
-<summary><b>🏅 Ver certificados (36 horas · SENAI-SP)</b></summary>
+<p align="center">
+  <img src="https://img.shields.io/badge/Certificados-16-FF8C42?style=for-the-badge&logo=bookstack&logoColor=white" alt="16 certificados"/>
+  <img src="https://img.shields.io/badge/Horas%20de%20estudo-386h-FF5F6D?style=for-the-badge&logo=clockify&logoColor=white" alt="386 horas"/>
+  <img src="https://img.shields.io/badge/SENAI--SP-9%20cursos-FFB347?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="9 cursos SENAI-SP"/>
+</p>
+
+<details open>
+<summary><b>💻 Tecnologia, programação e dados (60h)</b></summary>
 <br/>
 
-| Curso | Instituição | Carga horária |
-|:---|:---|:---:|
-| 💡 Competência Transversal: Lógica de Programação | SENAI-SP | 14h |
-| 🖥️ Competência Transversal: Tecnologia da Informação e Comunicação | SENAI-SP | 14h |
-| 🔒 Privacidade e Proteção de Dados (LGPD) | SENAI-SP | 4h |
-| ⚖️ Regulamentação da LGPD e Atuação da ANPD | SENAI-SP | 4h |
-| | **Total** | **36h** |
+| Curso | Instituição | Ano | Carga |
+|:---|:---|:---:|:---:|
+| 💡 Competência Transversal: Lógica de Programação | SENAI-SP | 2026 | 14h |
+| 🖥️ Competência Transversal: Tecnologia da Informação e Comunicação | SENAI-SP | 2026 | 14h |
+| 📊 Microsoft Power BI | SENAI-SP (Suzano) | 2025 | 32h |
 
-Também participei dos **três dias do WECTI** (semana de tecnologia da UNICID).
+> Em TIC estudei sistemas operacionais, hardware, redes, cabeamento estruturado, modelo OSI, pilares de segurança e mitigação de ataques. No Power BI aprendi a criar indicadores e a preparar, modelar e visualizar dados para a tomada de decisão.
+
+</details>
+
+<details>
+<summary><b>🔐 Privacidade e proteção de dados (8h)</b></summary>
+<br/>
+
+| Curso | Instituição | Ano | Carga |
+|:---|:---|:---:|:---:|
+| 🔒 Privacidade e Proteção de Dados (LGPD) | SENAI-SP | 2026 | 4h |
+| ⚖️ Regulamentação da LGPD e Atuação da ANPD | SENAI-SP | 2026 | 4h |
+
+</details>
+
+<details>
+<summary><b>📈 Pacote Office e produtividade (104h)</b></summary>
+<br/>
+
+| Curso | Instituição | Ano | Carga |
+|:---|:---|:---:|:---:|
+| 📗 Excel Avançado *(macros, tabelas e gráficos dinâmicos, funções aninhadas)* | SENAI-SP (Suzano) | 2025 | 40h |
+| 📗 Excel 2021 | Curso de informática | 2025 | 16h |
+| 📘 Word 2021 | Curso de informática | 2025 | 16h |
+| 📙 PowerPoint 2021 | Curso de informática | 2025 | 16h |
+| 🪟 Windows 11 | Curso de informática | 2025 | 16h |
+
+</details>
+
+<details>
+<summary><b>🦺 Segurança do trabalho (46h)</b></summary>
+<br/>
+
+| Curso | Instituição | Ano | Carga |
+|:---|:---|:---:|:---:|
+| 🔥 Formação de Brigada de Incêndio (nível avançado, IT 17/2019) | Treinamento corporativo | 2026 | 24h |
+| 🦺 Competência Transversal: Segurança no Trabalho | SENAI-SP | 2026 | 14h |
+| 🧗 Trabalho em Altura (NR 35) | Treinamento corporativo | 2026 | 8h |
+
+</details>
+
+<details>
+<summary><b>⚙️ Mecânica e formação profissional (168h)</b></summary>
+<br/>
+
+| Curso | Instituição | Ano | Carga |
+|:---|:---|:---:|:---:|
+| 📐 Desenho Técnico Mecânico | SENAI-SP (Suzano) | 2023 | 84h |
+| ➗ Matemática Aplicada à Mecânica | SENAI-SP (Suzano) | 2023 | 60h |
+| 💼 Preparatório para o Mercado de Trabalho | Juventude Cívica Poaense | 2022 | 24h |
+
+</details>
+
+<details>
+<summary><b>🏆 Conquistas e eventos</b></summary>
+<br/>
+
+- 🎓 **Ensino Médio concluído** (2023) na E.E. PEI Vera Lúcia Torres Rodrigues Affonso, com **apresentação de TCC**
+- ⭐ **Certificado de Aluno Destaque** pela excelente atuação no 3º bimestre
+- 🎤 Participação nos **três dias do WECTI**, a semana de tecnologia da UNICID
 
 </details>
 
@@ -157,7 +223,7 @@ A visita mudou minha visão de TI: por trás de cada tela existe uma operação 
 
 - [x] Atualizar currículo, LinkedIn e GitHub
 - [x] Ultrapassar 500 conexões no LinkedIn *(748+ conexões)*
-- [x] Concluir 30h de cursos complementares *(36h concluídas)*
+- [x] Concluir 30h de cursos complementares *(386h em 16 certificados)*
 - [x] Organizar uma visita técnica com a turma
 - [ ] Concluir e melhorar meu portfólio pessoal · *dez/2026*
 - [ ] Levar minhas linguagens de programação ao nível avançado · *fev/2027*
